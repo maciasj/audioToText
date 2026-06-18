@@ -1,5 +1,5 @@
 # Audio Transcription Utility
-
+The project originated from a real-world requirement brought to me by an acquaintance. He regularly conducted interviews for a own project and needed an efficient way to transcribe them. After exploring existing solutions, we found that most available options relied on paid models or subscription-based services. This motivated me to develop a more accessible and cost-effective alternative.
 Small utility to transcribe audio files using OpenAI's Whisper model.
 
 Files
